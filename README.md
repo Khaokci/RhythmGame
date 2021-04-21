@@ -5,5 +5,7 @@ This game might give you a seizure, so be careful.
 
 # Credits / Shoutouts
 [Khaokci (myself!) ](https://github.com/Khaokci) - Programmer and artist
-<br>
+
+# Shoutouts
 [Kiru](https://github.com/0neGal) - General script help and moral support
+<br>
