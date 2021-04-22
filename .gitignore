@@ -7,7 +7,8 @@ src/[Oo]bj/
 src/[Bb]uild
 src/[Bb]uilds/
 src/[Dd]ev [Bb]uilds/
-src//[Ll]ibrary/
+src/[Ll]ibrary/
+src/[Ll]ogs/
 src/sysinfo.txt
 src/*.stackdump
 src/Assets/AssetStoreTools*
